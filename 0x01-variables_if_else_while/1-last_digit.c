@@ -2,8 +2,8 @@
 #include <time.h>
 #include <stdio.h>
 /**
-*main-prints a text according number
-*Return: Always (success)
+*main - prints a text according number
+*Return: Alway (success)
 *
 */
 int main(void)
