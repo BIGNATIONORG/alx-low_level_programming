@@ -3,7 +3,7 @@
 #include <stdio.h>
 /**
 * main - Prints a text according numbe
-*  Return: Always (Success)
+*  Return: Always 0 (Success)
 *
 */
 int main(void)
